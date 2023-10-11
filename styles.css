@@ -16,13 +16,23 @@ nav a {
 nav {background-color: #E8D8C7;
     padding: 50px;
 
+
 }
 nav :hover {background: #C2B2A0;
 padding: 50px;
 background: hover;
 color: #F9F5F2;
 }
+.logo {
+    width: 280px;
+    position: relative;
+    width: 456px
+    height: 231px;
+    top: -795px;
+    left: 1400px;
 
+    
+}
 .sitting {
 
     margin-left: auto;
