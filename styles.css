@@ -38,28 +38,23 @@ color: #F9F5F2;
     width: 255px;
 }
 
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-height: 509px;
+}
+
 .sitting {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    padding-top: 0%;    
+    flex-grow: 2;    
 }
 .painting {
-    width: 323px;
-    height: 399px;
-    padding-top: 6%;
-    padding-left: 3%;
-    padding-right: 3.5%; 
+    flex-grow: 1;
 }
 
 .sclupture {
-    width: 323px;
-    height: 399px;
-    min-width: 323px;
-    min-height: 399px;
-    padding-top: 6%;
-    padding-right: 3%;
-    padding-left: 3%;
+    flex-grow: 1;
 }
 
 h1 {
@@ -90,7 +85,7 @@ h1:hover {
     padding: 3%;
     position: absolute;
     right: 650px;
-    top: 1125px;
+    top: 1118px;
 }
 
 figcaption {
