@@ -29,7 +29,6 @@ color: #F9F5F2;
 
 .logo {
     width: 250px;
-  
 }
 
 header{
@@ -76,6 +75,7 @@ h1:hover {
     font-family: 'Poppins', sans-serif;
     padding-left: 3%;
     font-size: 25px;
+    padding-top: 4%;
 }
 
 .sara1 {
