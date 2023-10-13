@@ -14,28 +14,28 @@ nav a {
 
 }
 nav {background-color: #E8D8C7;
-    padding: 50px;
+    padding: 45px;
 
 
 }
-nav :hover {background: #C2B2A0;
-padding: 50px;
-background: hover;
+nav :hover {
 color: #F9F5F2;
 }
 
 
 .logo {
-    width: 280px;
-    position: relative;
-    width: 456px
-    height: 231px;
-    top: -849px;
-    left: 1400px;    
-    
+    width: 250px;
+        width: 456px
+        height: 231px;
+        top: -10000px;
+        position: absolute;
+        top: 22px;
+        left:1400px;
+        padding-left: 30px;
 }
+
 .logo:hover{
-    width: 290px;
+    width: 255px;
 }
 
 .sitting {
@@ -76,4 +76,26 @@ h1:hover {
     font-family: 'Poppins', sans-serif;
     padding-left: 3%;
     font-size: 25px;
+}
+
+.sara1 {
+    max-width: 500px;
+    padding: 3%;
+    max-height: 500px;
+}
+
+.brooke1 {
+    max-width: 500px;
+    max-height: 500px;
+    padding: 3%;
+    position: absolute;
+    right: 650px;
+    top: 1125px;
+}
+
+figcaption {
+    padding-left: 3%;
+    font-family: 'Poppins';
+    font-size: 18px;
+    
 }
