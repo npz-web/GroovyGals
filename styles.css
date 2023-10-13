@@ -31,7 +31,6 @@ color: #F9F5F2;
     width: 250px;
     top: 22px;
     
-    
 }
 
 header{
@@ -53,9 +52,11 @@ header{
 
 .sitting {
        width: 50%;
+       padding-right: 2%;
 }
 .painting {
     width: 20%;
+    padding-right: ;
 }
 
 .sclupture {
