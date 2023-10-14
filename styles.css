@@ -54,7 +54,6 @@ header{
 }
 .painting {
     width: 20%;
-    padding-right: ;
 }
 
 .sclupture {
@@ -63,39 +62,56 @@ header{
 
 h1 {
     font-family: 'Poppins', sans-serif;
-    font-weight: 300;
     text-align: center;
     color: #7c2776;
-}
-h1:hover {
-    font-weight: 500;
 }
 
 .Explore {
     font-family: 'Poppins', sans-serif;
-    padding-left: 3%;
+    padding-left: 2%;
     font-size: 25px;
     padding-top: 4%;
 }
 
+.row2 {
+    display: flex;
+    max-width: 100%;
+    align-items: baseline;
+}
+
 .sara1 {
-    max-width: 500px;
-    padding: 3%;
-    max-height: 500px;
+   width: 100%;
 }
 
 .brooke1 {
-    max-width: 500px;
-    max-height: 500px;
-    padding: 3%;
-    position: absolute;
-    right: 650px;
-    top: 1118px;
+    width: 100%;
+}
+
+.riley1 {
+    width: 100%;
 }
 
 figcaption {
-    padding-left: 3%;
     font-family: 'Poppins';
-    font-size: 18px;
-    
+    font-size: 18px;  
+    padding-top: 2%;
+    padding-bottom: 6%;
+}
+
+.row3 {
+    display: flex;
+    max-width: 100%;
+    align-items: baseline;
+}
+.cat1 {
+    width: 100%;
+}
+
+.allie1 {
+    width: 100%;
+}
+
+.sara2
+{
+    width: 100%;
 }
