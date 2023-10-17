@@ -17,7 +17,7 @@ nav a {
     font-family: 'Poppins', sans-serif;
 
 }
-nav {background-color: #E8D8C7;
+nav {
     padding: 40px;
     position: relative;
     width: 100%;
@@ -37,6 +37,7 @@ header{
     display: flex;
     width: 100%;
     justify-content: space-between;
+    background-color: #E8D8C7;
 }
 
 .logo:hover{
